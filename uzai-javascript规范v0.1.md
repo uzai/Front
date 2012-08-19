@@ -1,3 +1,5 @@
+## uzai-javascript规范v0.1
+
 ### 一、编码注意
 
 1. 代码引入，外部文件&lt;script src=”example.js” type=”text/javascript”&gt;&lt;/script&gt;，内联脚本&lt;script type=”text/javascript”&gt;//code&lt;/script&gt;
